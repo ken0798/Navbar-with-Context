@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.nav_bar {
+  display: flex;
+  padding: 16px 0;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav_dark {
+  border-bottom: 1px solid #dcdcdc;
+}
+
+.nav_grey {
+  border-bottom: 1px solid #333333;
+}
+
+.nav_pic {
+  width: 50px;
+  cursor: pointer;
+}
+
+.nav_item {
+  margin-right: 32px;
+}
+
+.nav_link {
+  text-decoration: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.dark {
+  color: #dcdcdc;
+}
+
+.grey {
+  color: black;
+}
